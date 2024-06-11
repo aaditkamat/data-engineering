@@ -1,2 +1,2 @@
-# data-engineering
+# Data Engineering
 Small projects to learn data engineering
