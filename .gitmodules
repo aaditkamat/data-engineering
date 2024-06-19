@@ -1,3 +1,3 @@
 [submodule "linkedin-data-engineering"]
-	path = linkedin-data-engineering/
+	path = linkedin-data-engineering
 	url = https://github.com/aaditkamat/linkedin-data-engineering.git
